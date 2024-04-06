@@ -8,7 +8,7 @@
   * _The New Buissness_
   * _My Master Plan_
   
-> **_The Old Shop_** is a local store based in the North that has existed for a whopping 150 years, passed down through a family, and I will be taking it onto the online world. So that everyone can access its beautiful inventory & learn about the incredible history of the building, the generations of the family that have owned it. But, most importantly, so that everyone in the UK can own their very own peice of the secret in the North.
+> **_The Old Shop_** is a local store based in the North that has existed for over a whopping 160 years, passed down through a family, and I will be taking it onto the online world. So that everyone can access its beautiful inventory & learn about the incredible history of the building, the generations of the family that have owned it. But, most importantly, so that everyone in the UK can own their very own peice of the secret in the North.
 
 > **_The New Buissness_** Since Covid, it is fair to say that the public has learned a few things. Let me put two to you...Firstly, board games are underated! Secondly (and most importantly in my opinion) _We all need a little help sometimes_. With that in mind, I will be helping bring the world of CBT therapy online. Closely collaborating with a qualified Therapist, who's one goal is to help people who struggle with anxiety, depression, phobias and how to manage neurodiveristy & doing so in an easy, afforable and accesible way - completely online, bringing therapy to you.
 
@@ -25,17 +25,19 @@
 ## The Old Shop ##
 ###### The Plan: ######
 _watch this space_
-1. Create a **_timeline_** of completion in collaboration with the owner.
-2. (The fun part) Get the **_inventory_**
+
+1.) Create a **_timeline_** of completion in collaboration with the owner.
+2.) (The fun part) Get the **_inventory_**
    a. Catelog the stock.
    b. Document prices VAT.
    c. Document order history & order frequency.
-3. Use **GIT** to **_create a website_**
-4. **_Launch_**
+3.) Use **GIT** to **_create a website_**
+4.) **_Launch_**
 
 ## The New Buissness ## 
 ###### The Plan ######
 _watch this space_
+
 1.) Create a **_timeline_** of completion and collaborate with the new enterprenur.
 2.) Create a **_website_** using **GIT** for the new buissness.
 3.) Create a **_interactive booking system_** for clients to book their sessions. 
@@ -46,11 +48,13 @@ _watch this space_
 ## My Master Plan ##
 ###### The Plan ######
 _as this is a **_top secret_** project watch this space as my master plan will be released chronilogically. Don't Worry all of my findings will be posted!_
+
 1.) ***_Market Research_**
 
 # My Learning #
 ###### here is a list of all of the skills I have learned during my scholarship with CoGrammar (Thanks HyperionDev!)######
 _watch this space for continuous learning updates_
+
 1.) The Command Line and Terminal
 2.) Common Commands
 3.) Script & Batch Files
